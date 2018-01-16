@@ -14,4 +14,4 @@
 * flex布局的运用
 ## 主要实现点单购物结算页面
 ## 项目展示
-![loading](https://github.com/Sweet-kiss/WebReader/blob/master/static/shop.gif)
+![loading](https://github.com/Sweet-kiss/goodshopcx/blob/master/static/shop.gif)
